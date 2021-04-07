@@ -1,4 +1,4 @@
-## Music Play Bot 🎵 Can be found in telegram as [@UBAnyDLBot](http://t.me/UBAnyDLBot) ##
+## Music Play Bot 🎵 Can be found in telegram as [@UBGroupMusicPlayerBot](http://t.me/UBGroupMusicPlayerBot) ##
 
 ### Here the advanced branch with more features 🙂
 
@@ -11,7 +11,7 @@
 
 ## Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImJanindu/GroupMusicBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UvinduBro/GroupMusicBot)
 
 Get pyrogram STRING_NAME from here:
 
